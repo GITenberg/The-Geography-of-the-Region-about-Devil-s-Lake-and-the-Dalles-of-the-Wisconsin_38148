@@ -1,0 +1,40 @@
+_repo: The-Geography-of-the-Region-about-Devil-s-Lake-and-the-Dalles-of-the-Wisconsin_38148
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Atwood, Wallace Walter
+    aliases:
+    - Atwood, W. W. (Wallace Walter)
+    - Atwood, Wallace W.
+    birthdate: 1872
+    deathdate: 1949
+    gutenberg_agent_id: '39267'
+    url: http://www.gutenberg.org/2009/agents/39267
+    wikipedia: http://en.wikipedia.org/wiki/Wallace_Walter_Atwood
+  - agent_name: Salisbury, Rollin D.
+    birthdate: 1858
+    deathdate: 1922
+    gutenberg_agent_id: '39266'
+    url: http://www.gutenberg.org/2009/agents/39266
+    wikipedia: http://en.wikipedia.org/wiki/Rollin_D._Salisbury
+description: ''
+gutenberg_issued: '2011-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38148'
+  lccn: gs05001120
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physical geography'
+- !lcc 'F516'
+- !lcsh 'Wisconsin -- Description and travel'
+- !lcc 'QE'
+title: "The Geography of the Region about Devil's Lake and the Dalles of the Wisconsin\r\
+  \nWith Some Notes on Its Surface Geology"
+url: http://www.gutenberg.org/ebooks/38148
